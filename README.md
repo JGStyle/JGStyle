@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## My Projects
  - ⚡[Link shortener](https://short.jgsdev.de)
  - 💬[Quickly create yes/no polls](https://poll.jgsdev.de)
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 ## Work in progress
  - [An open source alternative to skribbl.io in modern design](https://skribbl.jgsdev.de)
+-->
+Check out my projects at
+https://jgsdev.de/
