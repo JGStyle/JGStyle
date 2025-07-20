@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 ## Work in progress
  - [An open source alternative to skribbl.io in modern design](https://skribbl.jgsdev.de)
 -->
-Check out my projects at
-https://jgsdev.de/
+https://jgs.dev/
